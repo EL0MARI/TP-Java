@@ -21,5 +21,5 @@ Ce dépôt contient les TP1 de Java. Chaque fichier correspond à un exercice sp
 - `Triangle.java` : Vérifie les propriétés d’un triangle
 
 ## Auteur
-Mohamed Al-Amari
+MOHAMED EL OMARI
 
